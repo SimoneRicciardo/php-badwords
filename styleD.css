@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    background: url(https://www.emp-online.it/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-master-emp/default/dw50339bb0/images/5/0/9/7/509791d.jpg?sfrm=png) no-repeat center ;
+    background-color:  rgb(39, 44, 48);
+} 
+
+body{
+    background: url(https://www.emp-online.it/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-master-emp/default/dw50339bb0/images/5/0/9/7/509791d.jpg?sfrm=png) no-repeat center ;
+    background-color:  rgb(39, 44, 48);
+}
+
+h1{
+    text-align: center;
+    padding: 25px 0;
+    color: white;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding: 20px 160px;
+    background-color: black;
+    opacity: 0.8
+}
